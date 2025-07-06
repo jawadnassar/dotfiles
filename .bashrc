@@ -91,6 +91,7 @@ fi
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
+alias lock='i3lock --show-failed-attempts --image /home/jawad/Pictures/wallpapers/wallpaper.png'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
